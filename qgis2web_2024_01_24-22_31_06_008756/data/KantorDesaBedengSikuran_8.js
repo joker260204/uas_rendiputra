@@ -1,0 +1,1 @@
+var json_KantorDesaBedengSikuran_8 = {"type":"FeatureCollection","name":"KantorDesaBedengSikuran_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Kantor des":"Bedeng Sikuran"},"geometry":{"type":"Point","coordinates":[101.834242744535928,-0.4889555562477]}}]}
