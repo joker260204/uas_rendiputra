@@ -1,0 +1,1 @@
+var json_SD011Bedeng_9 = {"type":"FeatureCollection","name":"SD011Bedeng_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","SD":"SD 011 Bedeng Sikuran"},"geometry":{"type":"Point","coordinates":[101.832050396406032,-0.480430336728236]}}]}

@@ -1,0 +1,1 @@
+var json_Masjidnurulmukminin_10 = {"type":"FeatureCollection","name":"Masjidnurulmukminin_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Masjid":"Masjid Nurul Mukminin"},"geometry":{"type":"Point","coordinates":[101.831639023217633,-0.479457362425157]}}]}
